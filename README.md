@@ -1,7 +1,9 @@
 <h1 align="center">My-Contacts-Back-End </h1>
-![My Contacts logo](https://user-images.githubusercontent.com/56620753/155061445-718d7d36-d681-434b-91c8-50e20d497270.png)
+<p align="center"> 
 
+<img   src="https://user-images.githubusercontent.com/56620753/155061445-718d7d36-d681-434b-91c8-50e20d497270.png" alt="My Contacts Logo" style="height: 300px; width:300px;"/>
 
+</p>
 
 
 <h1 align="center">Descrição Técnica do Projeto</h1>
